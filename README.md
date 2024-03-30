@@ -6,8 +6,6 @@
   <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
 
-Hello World! 👋
-
 I'm a versatile **Software Developer** with a passion for creating innovative solutions for web platforms.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
